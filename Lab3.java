@@ -1,7 +1,7 @@
 package labJava;
 //AUTHOR: Jessica Farias
 //FILENAME: Lab3.java
-//SPECIFICATIONS: Final weighted total calculator
+//SPECIFICATIONS: design a program which takes 3 user inputs as homework grade, midterm exam grade, and final exam grade. Then use a given formula to calculate the weighted total
 //FOR: CSE110- Lab 3
 //TIME SPENT: 1 hour 30 minutes
 
